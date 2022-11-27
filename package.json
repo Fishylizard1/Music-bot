@@ -1,0 +1,27 @@
+{
+    "name": "music-bot",
+    "main": "main.js",
+    "author": "Fishy",
+    "version": "6.0.0",
+    "repository": "nonya",
+    "description": "E",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "axios": "^0.27.2",
+        "common-tags": "^1.8.2",
+        "config.js": "^0.1.0",
+        "discord-player": "^5.3.1",
+        "discord-structures": "^1.0.6",
+        "discord.js": "^14.1.2",
+        "ffmpeg-static": "^5.0.2",
+        "functions": "^1.0.9",
+        "mongoose": "^6.6.0",
+        "ms": "^3.0.0-canary.1",
+        "node-fetch": "^3.2.10",
+        "opusscript": "^0.0.8",
+        "quick.db": "^9.0.6",
+        "structures": "^0.1.3"
+    }
+}
